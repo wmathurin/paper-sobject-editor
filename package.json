@@ -5,6 +5,9 @@
     "node": ">=0.10.25",
     "npm": ">=1.3.24"
   },
+  "scripts": {
+    "start": "node proxy.js"
+  },
   "dependencies": {
     "express": "latest",
     "http-proxy": "latest"
